@@ -1,4 +1,5 @@
-Hi there!, I'm a Telematics engineer with +3 years of experience developing web-based software with .NET Core, ASP.NET MVC, ASP.NET Web API, Angular, React, C#, Javascript, Typescript, Devexpress, NodeJS, Laravel, REST API, HTML, CSS / Bootstrap, TailwindCSS -; databases: MySQL and SQLServer.
+Telematics Engineer | MSc in DevOps
+Experienced software developer with 4+ years in designing and implementing web-based solutions. Proficient in a wide range of technologies, including .NET, ASP.NET MVC, ASP.NET Web API, Classic ASP, Angular, React, C#, VB, JavaScript, TypeScript, and RESTful APIs. Skilled in crafting responsive user interfaces with HTML, CSS, Bootstrap, and TailwindCSS. Strong background in database management with expertise in MongoDB, MySQL, and SQL Server.
 
 I have worked on government, pharmaceutical and transportation industry developing software solutions doing both frontend, backend plus database management for different areas of the company. Strong English level and working experience in USA +16 months, and extra professional courses and certifications in AWS, Coursera, Udemy and Edutin Academy.
 
